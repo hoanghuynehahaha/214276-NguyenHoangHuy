@@ -1,2 +1,6 @@
 Name: Your Name
 Interests: Coding, Design
+skills:
+Name: Your Name
+Interests: Coding, Design
+Skills: Python, JavaScript, UI/UX
